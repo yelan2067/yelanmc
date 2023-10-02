@@ -1,0 +1,4 @@
+name: freeip
+author: yelan
+main: com.cloud.ipa.mc
+version: 1.0
